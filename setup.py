@@ -36,7 +36,7 @@ setup(
         'requests',
         'idna',
         'simplejson',
-        'opencv-python',
+        'opencv-python==4.5.*',
         'numpy',
         'confapp',
         'urllib3',
